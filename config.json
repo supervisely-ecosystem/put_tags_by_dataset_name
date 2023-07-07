@@ -11,7 +11,7 @@
   "task_location": "workspace_tasks",
   "isolate": true,
   "headless": true,
-  "icon": "https://imgur.com/1Lcyx2p.png",
+  "icon": "https://github.com/supervisely-ecosystem/put_tags_by_dataset_name/assets/48245050/9b9b1906-f2b0-46e7-84f0-1ad2f81f583d",
   "icon_background": "#FFFFFF",
   "context_menu": {
     "target": ["images_project"],
